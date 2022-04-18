@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Divyansh Katare
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python and C language.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me E-mail    - kataredivyansh26@gmail.com
 -                    Instagram - kataredivyansh
 <!---
