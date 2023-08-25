@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyansh Katare</h1>
 <h3 align="center">Cyber Security Enthusiast</h3>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=kdivyansh&label=Profile%20views&color=0e75b6&style=flat"
-        alt="kdivyansh" /> </div>
-
-        
-
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
     <a href="https://twitter.com/katarediv" target="blank"><img align="center"
