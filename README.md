@@ -20,7 +20,7 @@
 
 <div align="left">
   <a href="https://www.twitch.tv/cyruss69" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    <img src="[https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge](https://dribbble.com/shots/16803755-Twitch-logo-x-Naumorphism/attachments/11858215?mode=media)" height="35" alt="twitch logo"  />
   </a>
   <a href="https://discordapp.com/users/divyansh007" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
