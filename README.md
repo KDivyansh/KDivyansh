@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Divyansh Katare</h1>
 <h3 align="center">Cyber Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kdivyansh&label=Profile%20views&color=0e75b6&style=flat"
-        alt="kdivyansh" /> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=kdivyansh&label=Profile%20views&color=0e75b6&style=flat"
+        alt="kdivyansh" /> </div>
+
+        
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<div align="center">
     <a href="https://twitter.com/katarediv" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="katarediv" height="30" width="40" /></a>
@@ -20,10 +21,10 @@
     <a href="https://discordapp.com/users/divyansh007" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="ewrwsdf" height="30" width="40" /></a>
-</p>
+</didiv>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+<h3 align="center">Languages and Tools:</h3>
+<div align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -49,14 +50,18 @@
             width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
-</p>
+</div>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=kdivyansh&show_icons=true&locale=en" alt="kdivyansh" />
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kdivyansh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kdivyansh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdivyansh&" alt="kdivyansh" /></p>
+
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdivyansh&" alt="kdivyansh" /></div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=kdivyansh" alt="kdivyansh" /></a> </p>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=kdivyansh" alt="kdivyansh" /></a> </div>
+
+
